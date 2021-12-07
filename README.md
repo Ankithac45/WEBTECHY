@@ -8,6 +8,7 @@ After we signup to the website, It asks for different skills we know which is gi
 This string would be passed onto the ML Model and It gives us back the appropraite as the output. We would also upload our Resume into it.
 Henceforth our resume would also be Rated based on the content and format in it.
 # Glimpses of the webpages
+![1111](https://user-images.githubusercontent.com/79328907/144993699-aa3e6fd1-210c-4b93-bb0c-fd380ed486db.png)
 
 
 
